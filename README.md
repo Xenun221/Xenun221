@@ -3,7 +3,7 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Xenun221&show_icons=true&count_private=true&hide_border=true&title_color=8F0D87&icon_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Gabriel Nunes Github" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Xenun221&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Gabriel Nunes Github" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenun221&layout=compact&hide_border=true&title_color=000000&text_color=00bfbf&bg_color=00bfbf" />
 </div>
  &nbsp;
